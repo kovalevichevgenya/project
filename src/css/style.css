@@ -1,0 +1,7 @@
+h1{text-align: center;color: firebrick;font-size: 20px;}
+h2{font-size: 20px;font-weight: 200;}
+span{font-style: italic;}
+.number{color: firebrick;font-weight: bold;
+font-style: normal;text-align: center;margin-top: 30px;}
+img{display: block;margin: 0 auto;}
+body{background-color: rgb(255, 255, 224);}
